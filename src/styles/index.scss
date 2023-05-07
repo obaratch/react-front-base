@@ -1,0 +1,16 @@
+@import "./font-awesome.scss";
+@import "./reset.scss";
+
+a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+body {
+  color: #444;
+}
+
+@import "./header-footer.scss";
+@import "./login.scss";

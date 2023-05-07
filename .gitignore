@@ -1,0 +1,9 @@
+.DS_Store
+.vscode
+*.code-workspace
+.node-version
+node_modules
+config/local.*
+dist/
+
+!.gitkeep
